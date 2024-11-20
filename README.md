@@ -3,7 +3,7 @@
 
 <div
   style="display:flex, justify:justify-between">
-<div align="center">
+<div align="center" style="border-radius: 50%; width: 200px; height: 200px;>
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47wjx2k1o6jj083qh56ck1mjxxkk519aivo246pmq2&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
        alt="Circular GIF" 
        style="border-radius: 50%; width: 200px; height: 200px;" />
