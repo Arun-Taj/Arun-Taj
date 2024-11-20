@@ -46,7 +46,10 @@
 ## 📫 Contact Me
 <div align="center">
  Gmail: <a href="mailto:aruntajpuriya1@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  </br>
  Facebook: <a href="https://www.facebook.com/arun.tajpuriya.526">![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+</br>
  Phone No: 9814999911
+</br>
 </div>
 
