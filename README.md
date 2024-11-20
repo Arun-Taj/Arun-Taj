@@ -40,12 +40,13 @@
 </br>
 </br>
 <div align="center">
- <p>Currently working on remote freelancing projects using React js</p>
+ <p>Currently working on remote freelancing projects mostly using React js and other technologies</p>
   
 </div>
 ## 📫 Contact Me
 <div align="center">
-  <a href="mailto:aruntajpuriya1@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://www.facebook.com/arun.tajpuriya.526">![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+ Gmail: <a href="mailto:aruntajpuriya1@gmail.com">![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+ Facebook: <a href="https://www.facebook.com/arun.tajpuriya.526">![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+ Phone No: 9814999911
 </div>
 
